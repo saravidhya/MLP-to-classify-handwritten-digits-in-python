@@ -28,5 +28,5 @@ We use the following architecture:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mlp-digit-classifier.git
+   git clone https://github.com/saravidhya/mlp-digit-classifier.git
    cd mlp-digit-classifier
